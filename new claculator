@@ -2,7 +2,16 @@
 
 
 code need to be updated
-
+#include<iostream>
+using namespace std;
+void main()
+{
+int a, b, c;
+cout<<"enter 2 numbers";
+cin>>a>>b;
+c=a+b;
+cout<<"sum="<<c;
+}
 
 
 
