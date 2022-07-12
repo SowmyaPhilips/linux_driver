@@ -1,0 +1,8 @@
+design  a class car
+color, number of wheels , no of parts, 
+func: getcolor, getwheel, getpartts
+color and wheels should be user input
+derived class
+numof lights
+getlights()
+single parameter: no of lights
