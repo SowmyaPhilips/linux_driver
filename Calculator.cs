@@ -13,7 +13,7 @@ namespace CalculatorLibrary
 
         public void Method2()
         {
-            Console.WriteLine("This is Method 2");
+            Console.WriteLine("This is Method 2");//printing a message
         }
     }
 }
