@@ -8,12 +8,16 @@ namespace CalculatorLibrary
         public int y { get; set; }
         public void Method1()
         {
-            Console.WriteLine("This is Method 1");//second message
+            Console.WriteLine("This is Method 1");//second message1
         }
 
         public void Method2()
         {
-            Console.WriteLine("This is Method 2");//printing a message
+            Console.WriteLine("This is Method 2");//printing a message2
+        }
+        public void Method3()
+        {
+            Console.WriteLine("This is Method 3");//printing a message3
         }
     }
 }
