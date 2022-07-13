@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+void main()
+{
+int a,b,c;
+cout<<"enter 2 numbers";
+cin>>a;
+c=a-b;
+cout<<"diff="<<c;
+}
