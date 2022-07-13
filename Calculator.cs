@@ -19,5 +19,9 @@ namespace CalculatorLibrary
         {
             Console.WriteLine("This is Method 3");//printing a message3
         }
+        public void Method4()
+        {
+            Console.WriteLine("This is Method 4");//printing a message4
+        }
     }
 }
