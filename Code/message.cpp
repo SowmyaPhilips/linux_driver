@@ -2,6 +2,7 @@
 using namespace std;
 void main()
 {
-  cout<<"Message";
+  cout<<"Message"<<"welcome";
   //write some message
+  //add propercode
 }
